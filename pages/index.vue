@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <app-logo/>
+      <brenetic-logo/>
       <h1 class="title">
         brenetic.com
       </h1>
@@ -23,11 +23,11 @@
 </template>
 
 <script>
-import AppLogo from '~/components/AppLogo.vue'
+import BreneticLogo from '~/components/BreneticLogo.vue'
 
 export default {
   components: {
-    AppLogo
+    BreneticLogo
   }
 }
 </script>
