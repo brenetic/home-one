@@ -3,18 +3,17 @@
     <div>
       <brenetic-logo/>
       <h1 class="title">
-        brenetic.com
+        brenetic
       </h1>
       <h2 class="subtitle">
-        Home site
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://uk.linkedin.com/in/brenetic"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--green">LinkedIn</a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/brenetic"
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
