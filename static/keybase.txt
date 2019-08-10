@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/brenetic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.brenetic.com
+  * I am brenetic (https://keybase.io/brenetic) on keybase.
+  * I have a public key ASDa7c8ZkFQDdSZgyJgiTVXuZ83lHrmx0nBpLnKyOqQo1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c247ddadc156aefb67f76d1a23ececb6e37b038fe98ca26a0a549a3d53d283de0a",
+      "host": "keybase.io",
+      "kid": "0120daedcf19905403752660c898224d55ee67cde51eb9b1d270692e72b23aa428d60a",
+      "uid": "f77cd4a8821bd7838fc621a30fc77619",
+      "username": "brenetic"
+    },
+    "merkle_root": {
+      "ctime": 1565434615,
+      "hash": "e175cd28470af83485bb4dfa4dacba4892a97b3b00589d88410c1998e15ea16ee3001e9dc595afe6c00f2e88e1221961f0840e882244d01d6416a1224095deda",
+      "hash_meta": "3912e683d5ac19a0b19f85200a5c72a6890ef5589511ef92429de90b8691015b",
+      "seqno": 5984424
+    },
+    "service": {
+      "entropy": "/eO+FYIlZpCjv6LK51irDVRs",
+      "hostname": "www.brenetic.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1565434686,
+  "expire_in": 504576000,
+  "prev": "94a827bd3485e5544506b5ee52cb3c94eab968e37f29867b895bacb226d678d1",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2u3PGZBUA3UmYMiYIk1V7mfN5R65sdJwaS5ysjqkKNYKp3BheWxvYWTESpcCJMQglKgnvTSF5VRFBrXuUss8lOq5aON/KYZ7iVussibWeNHEIMjxjhytRMZYo+9lGr4QtH5bPhUTDDQfFu6dOm4MkE7sAgHCo3NpZ8RAmSuXoW5GmkG0hk4Sok7pQSuJyzRT3pOIh18EDrQzkKHbgusmJTtw8zqYs+L8NWLtZNReFy9F5rX3CNlcZGfqAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDqs4nznI8Dljmo7X3zsZh2y+W/wqcUP3mNlllYT2OGco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brenetic
+
+==================================================================
