@@ -1,9 +1,9 @@
 <template>
   <div class="BreneticLogo">
-    <div class="CircleSmall topleft"/>
-    <div class="CircleSmall topright"/>
-    <div class="CircleLarge bottomleft"/>
-    <div class="CircleLarge bottomright"/>
+    <div class="CircleSmall topleft"></div>
+    <div class="CircleSmall topright"></div>
+    <div class="CircleLarge bottomleft"></div>
+    <div class="CircleLarge bottomright"></div>
   </div>
 </template>
 
